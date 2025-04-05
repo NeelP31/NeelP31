@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Neel</h2>
+<h2 align="left">👋 Hello, I'm Neel Patel!</h2>
 
 ###
 
@@ -9,6 +9,9 @@
 
 ###
 
+## 🛠️ Technologies & Tools
+
+### Programming Languages
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -33,27 +36,43 @@
 
 ###
 
+###
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="30" alt="godot logo"  />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=processing" height="30" alt="processing logo"  />
+  <img src="https://skillicons.dev/icons?i=processing" height="40" alt="processing logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
 
 ###
 
+
+## 🎯 About Me
+
 <img align="right" height="180" src="https://i.imgur.com/xGGSwPv.png"  />
 
+I'm a passionate developer with interests spanning:
+- Web development (React, JavaScript)
+- Artificial Intelligence/Machine Learning
+- Game development and 3D modeling
+- Embedded systems and IoT projects
+- Creative coding and digital art
+
+I love building projects that combine technical challenges with creative solutions. When I'm not coding, you can find me creating game assets, working on hardware projects, or sharing my knowledge through tutorials.
+
 ###
+
+## 🌐 Connect With Me
 
 <div align="left">
   <a href="https://www.youtube.com/@roadkill3873" target="_blank">
@@ -62,8 +81,10 @@
   <a href="https://www.instagram.com/neelpatel_.3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="np733279@gmail.com" target="_blank">
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:np733279@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/neel-patel-3105np/" target="_blank">
@@ -73,5 +94,3 @@
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
   </a>
 </div>
-
-###
